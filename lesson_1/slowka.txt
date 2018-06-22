@@ -1,0 +1,243 @@
+apple - jabłko
+pear - gruszka
+peach - brzoskwinia
+apricot - morela
+cherry - wiśnia/czereśnia
+plum - śliwka
+blackcurrant - czarna porzeczka
+redcurrant - czerwona porzeczka
+blueberry - czarna jagoda
+raspberry - malina
+strawberry - truskawka
+cranberry - żurawina
+gooseberry - agrest
+banana - banan
+lemon - cytryna
+greengage - renkloda
+orange - pomarańcza
+grapefruit - grejpfrut
+grape - winogrono
+pineapple - ananas
+passion fruit - marakuja
+melon - melon
+watermelon - arbuz
+
+VEGETABLES - WARZYWA
+
+cabbage - kapusta
+Brussels sprout - brukselka
+cauliflower - kalafior
+carrot - marchew
+cress - rzeżucha
+cucumber - ogórek
+onion - cebula
+garlic - czosnek
+lettuce - sałata
+radish - rzodkiewka
+leek - por
+celery - seler
+parsley - pietruszka
+potato - ziemniak
+tomato - pomidor
+pepper - papryka
+spinach - szpinak
+beet - burak
+beans - fasola
+French beans - fasolka szparagowa
+green peas - groszek zielony
+sweetcorn - kukurydza
+asparagus - szparagi
+garlic - czosnek
+horseradish - chrzan
+mushroom - grzyb
+
+DIARY PRODUCTS - NABIAŁ
+
+butter - masło
+cheese - ser
+milk - mleko
+yoghurt - jogurt
+cottage cheese - twaróg, biały ser
+egg - jajo
+hard boiled egg - jajo gotowane na twardo
+soft boiled egg - jajo gotowane na miękko
+fried, sunny side up egg - jajo sadzone
+scrambled eggs - jajecznica
+poached eggs - jajka w koszulkach
+omelette - omlet
+
+BREADS - PIECZYWO
+
+bread - chleb
+croissant - rogal
+French bread - bagietka
+roll, bun - bułka
+wholemeal bread - chleb razowy
+
+PASTRIES - WYROBY CUKIERNICZE
+
+apple pie - jabłecznik
+cheese cake - sernik
+poppyseed cake - makowiec
+Swiss roll - rolada
+donut - pączek
+
+CEREALS - PRODUKTY ZBOŻOWE
+
+oats - płatki owsiane
+rice - ryż
+grits/groats - kasza
+
+PASTAS - WYROBY MĄCZNE
+
+pasta - makaron
+perogies - pierogi
+noodles - kluski
+pancake - naleśnik
+
+OIL - OLEJ
+
+olive oil - oliwa
+margarine - margaryna
+
+MEAT - MIĘSO
+
+pork - wieprzowina
+beef - wołowina
+veal - cielęcina
+mutton - baranina
+lamb - jagnięcina
+rabbit - królik
+poultry - drób
+chicken - kurczak
+hen - kura
+duck - kaczka
+goose - gęś
+turkey - indyk
+liver - wątróbka
+kidneys - cynaderki
+ribs - żeberka
+loin - polędwica
+bacon - boczek
+ham - szynka
+salami - salami
+sausage - kiełbasa
+pastry - pasztet
+
+FISH - RYBY
+
+herring - śledź
+mackerel - makrela
+tuna - tuńczyk
+salmon - łosoś
+sardine - sardynka
+trout - pstrąg
+cod - dorsz
+carp - karp
+eel - węgorz
+pike - szczupak
+sole - sola
+flounder - flądra
+halibut - halibut
+o shellfish - skorupiaki
+prawn/shrimp - krewetka
+lobster - homar
+crayfish - langusta
+crab - krab
+oyster - ostryga
+mussel - małż
+
+SPICES - PRZYPRAWY
+
+salt - sól
+black pepper - czarny pieprz
+chilli - chilli
+paprika - papryka
+horseradish - chrzan
+mustard - musztarda
+ginger - imbir
+cinnamon - cynamon
+vanilla pod - laska wanilii
+clove - goździk
+nutmeg - gałka muszkatołowa
+turmeric - kurkuma
+
+HERBS - ZIOŁA
+
+chives - szczypiorek
+parsley - pietruszka
+dill - koper
+basil - bazylia
+caraway seed - kminek
+coriander - kolendra
+marjoram - majeranek
+sage - szałwia
+rosemary - rozmaryn
+thyme - tymianek
+mint - mięta
+savory - cząber
+tarragon - estragon
+
+SWEETS - SŁODYCZE
+
+sugar - cukier
+honey - miód
+jam - dżem
+marmalade - marmolada
+jelly - galaretka
+biscuits - herbatniki
+cake - ciasto
+apple pie/charlotte - jabłecznik/szarlotka
+doughnut - pączek
+cheese-cake - sernik
+honey-cake/gingerbread - piernik
+chocolate - czekolada
+ice cream - lody
+whipped cream - bita śmietana
+
+DRINKS - NAPOJE
+
+tea - herbata
+coffee - kawa
+black coffee - czarna kawa
+white coffee - kawa ze śmietanką/mlekiem
+fruit juice - sok owocowy
+lemonade - lemoniada
+milk - mleko
+mineral water- woda mineralna
+fizzy mineral water - woda mineralna gazowana
+still mineral water - woda mineralna niegazowana
+beer - piwo
+wine - wino
+red wine - czerwone wino
+white wine - białe wino
+red wine - czerwone wino
+dry - wytrawne
+semi-sweet - półsłodkie
+sweet - słodkie champagne - szampan
+cognac - koniak
+
+MEALS - POSIŁKI
+
+breakfast - śniadanie
+lunch - drugie śniadanie, wczesny obiad
+brunch - drugie śniadanie, śniadanie połączone z lunchem
+dinner - późny obiad
+tea - podwieczorek
+supper - kolacja
+pudding - deser
+dish - potrawa
+course - danie
+soup - zupa
+main dish - danie główne
+dessert - deser
+snack - przekąska
+
+TASTE - SMAK
+
+sour - kwaśny
+bitter - gorzki
+hot - ostry
+savoury /spicy - pikantny
+sweet - słodki
+salty - słony
